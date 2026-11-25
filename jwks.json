@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "pb-sandbox-2026-11-24",
+      "n": "smvOagqws1tXIPnVLnJ9pqRLfvU_IYvcl9O0RYG6v92lzJwCJV-GCQfanbdFTzeb1ia0lYYS8tEWIM57dAGpwSNrrxdWvH3lJxgmqbCKa4Xm-fQOLjYen0YDj6BF7sXa7fe5SdymHIDgGYyp3iB99dWHVMMLcRrCQ8eRooN64H8ik27QtS2YKgFzCY3hC5zkoMh43GTKIhbxBtwGAMoF2eT3suKjGCgufRU7MNunY4kgS8ibQ426dVgu8QhSpCd0Tz39EJ0BMyz9bQEUVTJebt2u3tlM8z360fcfmYVAwXMPRJy0Xf-v7_JMOITkNN45jsYeZZEpfnntIOFKHUNWCzlZ5ExyMse-1tIXb6Le9yNtup0i9yEeAzpZJh8WyOGsp7meK9PPGEmIAXkfK25u-YnX7KllZUhsqlPRDFftk_M6kHgZme6F9d1jvFu2HoNCpgA4ZL34G0niLRslNUnD_UzAFBEDOKvX1h6KC6sIDTID8E57591xsFNtE1PQyTcX",
+      "e": "AQAB"
+    }
+  ]
+}
